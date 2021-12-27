@@ -32,7 +32,7 @@
     - PCA reduction and analysis using Eigenfaces.
     - Features decomposition of the Linear Algebra behind the Sklearn Models, as well as as an explanation into Eigenfaces in general.
 
-  - [Genetic Algorithms[(https://github.com/Shuaf98/Machine_Learning/blob/main/unsupervised/Genetic_Algorithms.ipynb)
+  - [Genetic Algorithms](https://github.com/Shuaf98/Machine_Learning/blob/main/unsupervised/Genetic_Algorithms.ipynb)
     - Create a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Create and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
 
