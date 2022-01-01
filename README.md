@@ -38,17 +38,10 @@
 
 ## EDA and Data Visualization
 
-- Housing Prices
+- [Housing Prices](https://github.com/Shuaf98/y-data/blob/main/kaggle/house_regression/House_EDA_Shua.ipynb)
     
-- Ad Trafficking Fraud Detection
+- [Ad Trafficking Fraud Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
    
-
-## End-to-End Machine Learning Projects
-
-- Housing Prices
-
-- AdTrafficking Fraud Detection
-    
 ## Self-Made learning Material
 
 - [Advent of Code Solutions](https://github.com/Shuaf98/Advent)
