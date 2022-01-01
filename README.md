@@ -46,8 +46,7 @@
 
 - [Advent of Code Solutions](https://github.com/Shuaf98/Advent)
   - Some of the most fun I have had with programming: My basic solutions to the popular [Advent of Code](https://adventofcode.com/) programming puzzles
-  - Highlights:
-    - 
+
 - [SQL and Python](https://github.com/Shuaf98/Python_SQL/tree/main/Python_mysql)
   - Material I have made for myself to learn how to integrate my own MySQL and Python knowledge. Features:
     - Custom function to automatically import all sheets in a spreadsheet to a MySQL database.
