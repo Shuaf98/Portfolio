@@ -38,7 +38,7 @@
 
 ## End-to-End Machine Learning Projects
 
-- MNIST Digits Image Recognition
+- [MNIST Digits Image Recognition](https://github.com/Shuaf98/y-data/blob/main/kaggle/digits/digits.ipynb)
   - EDA on 60,000 handwritten images of digits, utilizing seabron and matplotlib
   - Classified and predicited images using Supervised methods, such as KNN, Logistic Regression, and Random Forest
   - Used dimensionality reduction with PCA and t-SNE to visualize the different clusters.
