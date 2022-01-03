@@ -36,7 +36,12 @@
     - Create a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Create and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
 
-## EDA and Data Visualization
+## End-to-End Machine Learning Projects
+
+- MNIST Digits Image Recognition
+  - EDA on 60,000 handwritten images of digits, utilizing seabron and matplotlib
+  - Classified and predicited images using Supervised methods, such as KNN, Logistic Regression, and Random Forest
+  - Used dimensionality reduction with PCA and t-SNE to visualize the different clusters.
 
 - [Housing Prices](https://github.com/Shuaf98/y-data/blob/main/kaggle/house_regression/House_EDA_Shua.ipynb)
     
