@@ -1,4 +1,6 @@
 # Shua Friedman Data Science Portfolio
+Hi, I am Shua! I am a hard-working, fast learning, and highly motivated Data Analyst, with a strong academic background in Business Administration and Marketing. Currently pursuing education and experience in Data Science with the Yandex School of Data Science. Equipped with skills in Python, machine learning and data science packages, SQL, and Excel proficiency.
+
 
 ## End-to-End Analysis and Machine Learning Projects
 - [Ad Trafficking Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
