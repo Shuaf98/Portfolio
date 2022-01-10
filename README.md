@@ -2,9 +2,8 @@
 Hi, I am Shua! I am a hard-working, fast learning, and highly motivated Data Analyst, with a strong academic background in Business Administration and Marketing. Currently pursuing education and experience in Data Science with the Yandex School of Data Science. Equipped with skills in Python, machine learning and data science packages, SQL, and Excel proficiency.
 
 Contained in this repository are several projects which I have worked on, which I hope can properly showcase my knowledge and capabilities. Within this repository, you can find:
-- End to End machine learning projects and kaggle competitions, containing EDA, feature engineering and extraction techniques, as well as prediction models using various   
-  different machine learning algorithms and packages.
-
+- **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
+- **Cutom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 
 ## End-to-End Analysis and Machine Learning Projects
 - [Ad Trafficking Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
