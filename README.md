@@ -1,4 +1,19 @@
 # Shua Friedman Data Science Portfolio
+
+## End-to-End Analysis and Machine Learning Projects
+
+- [Housing Prices Regression Analysis and Prediction](https://github.com/Shuaf98/y-data/blob/main/kaggle/house_regression/full_project.ipynb)
+  - Full EDA, Heavy data cleanup and feature engineering with Ordinal and One-Hot encoding.
+  - Sale Price predictions using Random Forest and XGBoost Regression.
+  - HyperParameter tuning and PCA feature reductionality.
+- [Ad Trafficking Fraud Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
+  - Full EDA, Time Series Analysis
+  - Working with Imblanced Features, advanced Feature Extraction and Feature Engineering (grouby aggregation)
+  - Machine Learning Predictions with Adaboost, Gradient Boosting, and Random Forest
+- [MNIST Digits Image Recognition](https://github.com/Shuaf98/y-data/blob/main/kaggle/digits/digits.ipynb)
+  - EDA on 60,000 handwritten images of digits, utilizing seabron and matplotlib
+  - Classified and predicited images using Supervised methods, such as KNN, Logistic Regression, and Random Forest
+  - Used dimensionality reduction with PCA and t-SNE to visualize the different clusters.
  
 ## Machine Learning Algorithms:
 - ### Supervised Learning
@@ -36,17 +51,6 @@
     - Create a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Create and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
 
-## End-to-End Machine Learning Projects
-
-- [MNIST Digits Image Recognition](https://github.com/Shuaf98/y-data/blob/main/kaggle/digits/digits.ipynb)
-  - EDA on 60,000 handwritten images of digits, utilizing seabron and matplotlib
-  - Classified and predicited images using Supervised methods, such as KNN, Logistic Regression, and Random Forest
-  - Used dimensionality reduction with PCA and t-SNE to visualize the different clusters.
-
-- [Housing Prices](https://github.com/Shuaf98/y-data/blob/main/kaggle/house_regression/House_EDA_Shua.ipynb)
-    
-- [Ad Trafficking Fraud Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
-   
 ## Self-Made learning Material
 
 - [Advent of Code Solutions](https://github.com/Shuaf98/Advent)
