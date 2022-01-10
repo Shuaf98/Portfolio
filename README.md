@@ -40,7 +40,9 @@ Contained in this repository are several projects which I have worked on, which 
     - Linear Regression analysis on the Boston Housing dataset, using t-tests on the Mean Squared Errors over multiple samples.
   - [Regularization](https://github.com/Shuaf98/Machine_Learning/blob/main/supervised/Regularization.ipynb)
     - Custom Implentation of Ridge Linear Regression. Sklearn comparison between OLS, Ridge, and Lasso regularization 
-  - Decision Trees
+  - [Decision Trees](https://github.com/Shuaf98/Machine_Learning/blob/main/supervised/DecisionTrees.ipynb)
+    - Custom Implementation of Decision Tree Regressor, and comparing to Random Forest
+    - Implementation and Analysis of the MNIST dataset with Decision Trees
 
 - ### Unsupervised Learning
   - [KMeans](https://github.com/Shuaf98/Machine_Learning/blob/main/unsupervised/KMeans.ipynb)
