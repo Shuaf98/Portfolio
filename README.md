@@ -5,7 +5,7 @@ Contained in this repository are several projects which I have worked on, which 
 - **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
 - **Cutom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 - **SQL Projects and Tableau Visualization**, featuring some of the most enjoyable work I have created for my own learning: 
-  - <img src="https://github.com/Shuaf98/SQL/blob/main/dashboard.pngg" alt="drawing" width="200"/>
+  - <img src="https://github.com/Shuaf98/SQL/blob/main/dashboard.png" alt="drawing" width="200"/>
   - SQL Database Management with Python
   - SQL Analysis on the Chicago Hardship dataset.
 
@@ -59,7 +59,7 @@ Contained in this repository are several projects which I have worked on, which 
     - Created and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
 
 ## SQL Projects and Tableau
-- [Covid Deaths and Visualization](https://github.com/Shuaf98/SQL/tree/main)
+- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL/tree/main)
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
     - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
   - [Analysis Visualizations using a Tableau Dashboard](https://public.tableau.com/app/profile/yehoshua.s.friedman/viz/Covid-19Deathsanalysis/Dashboard1)
