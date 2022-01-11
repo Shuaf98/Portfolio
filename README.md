@@ -8,7 +8,6 @@ Contained in this repository are several projects which I have worked on, which 
   - Covid -19 statistics analysis using SQL scripitng, and visualization with Tableau
   - SQL Database Management with Python
   - SQL Analysis on the Chicago Hardship dataset.
-
 ## End-to-End Analysis and Machine Learning Projects
 - [Ad Trafficking Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
   - Full EDA, Time Series Analysis
@@ -57,7 +56,6 @@ Contained in this repository are several projects which I have worked on, which 
   - [Genetic Algorithms](https://github.com/Shuaf98/Machine_Learning/blob/main/unsupervised/Genetic_Algorithms.ipynb)
     - Created a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Created and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
-
 ## SQL Projects and Tableau
 - [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL/tree/main)
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
