@@ -61,11 +61,11 @@ Contained in this repository are several projects which I have worked on, which 
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
     - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
   - Analysis Visualizations using a Tableau [Dashboard](https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/Tableau_Dashboard)
-<img src="https://github.com/Shuaf98/SQL/blob/main/dashboard.png" alt="drawing" width="400"/>
+<img src="https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/dashboard.png" alt="drawing" width="400"/>
 
-- [Chicago Hardship Data Anlaysis with Python-MYSQL Connection](https://github.com/Shuaf98/Python_SQL/blob/main/Python_ibm/chicago_data.ipynb)
+- [Chicago Hardship Data Anlaysis with Python-MYSQL Connection](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_ibm/chicago_data.ipynb)
   - Chicago Hardship and Poverty Index analysis, implementing SQL jupyter notebook Magic commands.
-- [SQL and Python](https://github.com/Shuaf98/Python_SQL/tree/main/Python_mysql)
+- [SQL and Python](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_mysql/databse_setup.ipynb)
   - Material I have made for myself to learn how to integrate my own MySQL and Python knowledge. Features:
     - Custom function to automatically import all sheets in a spreadsheet to a MySQL database.
     - Database connection and setup from Python scripts.
