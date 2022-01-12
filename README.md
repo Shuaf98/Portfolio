@@ -57,7 +57,7 @@ Contained in this repository are several projects which I have worked on, which 
     - Created a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Created and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
 ## SQL Projects and Tableau
-- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL/tree/main)
+- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects/covid_analysis)
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
     - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
   - Analysis Visualizations using a Tableau [Dashboard](https://public.tableau.com/app/profile/yehoshua.s.friedman/viz/Covid-19Deathsanalysis/Dashboard1)
