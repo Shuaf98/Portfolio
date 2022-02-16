@@ -7,7 +7,7 @@ Contained in this repository are several projects which I have worked on, which 
 - **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
 - **Custom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 ## SQL Projects and Tableau
-- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects)
+- [Covid Deaths and Infection Rate Analysis and Dashboard](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects)
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
     - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
   - Analysis Visualizations using a Tableau [Dashboard](https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/Tableau_Dashboard)
