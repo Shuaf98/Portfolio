@@ -3,7 +3,7 @@ Hi, I am Shua! I am a hard-working, fast learning, and highly motivated Data Ana
 
 Contained in this repository are several projects which I have worked on, which I hope can properly showcase my knowledge and capabilities. Within this repository, you can find:
 - **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
-- **Cutom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
+- **Custom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 - **SQL Projects and Tableau Visualization**, featuring some of the most enjoyable work I have created for my own learning: 
   - Covid -19 statistics analysis using SQL scripitng, and visualization with Tableau
   - SQL Database Management with Python
