@@ -2,12 +2,24 @@
 Hi, I am Shua! I am a hard-working, fast learning, and highly motivated Data Analyst, with a strong academic background in Business Administration and Marketing. Currently pursuing education and experience in Data Science with the Yandex School of Data Science. Equipped with skills in Python, machine learning and data science packages, SQL, and Excel proficiency.
 
 Contained in this repository are several projects which I have worked on, which I hope can properly showcase my knowledge and capabilities. Within this repository, you can find:
-- **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
-- **Custom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 - **SQL Projects and Tableau Visualization**, featuring some of the most enjoyable work I have created for my own learning: 
   - Covid -19 statistics analysis using SQL scripitng, and visualization with Tableau
   - SQL Database Management with Python
   - SQL Analysis on the Chicago Hardship dataset.
+- **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
+- **Custom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
+## SQL Projects and Tableau
+- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects)
+  - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
+    - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
+  - Analysis Visualizations using a Tableau [Dashboard](https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/Tableau_Dashboard)
+<img src="https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/dashboard.png" alt="drawing" width="400"/>
+
+- [Chicago Hardship Data Anlaysis with Python-MYSQL Connection](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_ibm/chicago_data.ipynb)
+  - Chicago Hardship and Poverty Index analysis, implementing SQL jupyter notebook Magic commands.
+- [SQL and Python](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_mysql/databse_setup.ipynb)
+  - Material I have made for myself to learn how to integrate my own MySQL and Python knowledge. Features:
+    - Custom function to automatically import all sheets in a spreadsheet to a MySQL database.
 ## End-to-End Analysis and Machine Learning Projects
 - [Ad Trafficking Detection](https://github.com/Shuaf98/y-data/blob/main/kaggle/fraud/fraud_EDA.ipynb)
   - Full EDA, Time Series Analysis
@@ -56,18 +68,7 @@ Contained in this repository are several projects which I have worked on, which 
   - [Genetic Algorithms](https://github.com/Shuaf98/Machine_Learning/blob/main/unsupervised/Genetic_Algorithms.ipynb)
     - Created a Genetic Algorithm to optimize the coefficients of the inflection points of a Time Series dataset.
     - Created and optimize a Genetic Algorithm to predict clustering labels, and comparing to Kmeans.
-## SQL Projects and Tableau
-- [Covid Deaths and Infection Rate Analysis and Visualization](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects)
-  - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
-    - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
-  - Analysis Visualizations using a Tableau [Dashboard](https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/Tableau_Dashboard)
-<img src="https://github.com/Shuaf98/SQL_Projects/blob/main/SQL_projects/dashboard.png" alt="drawing" width="400"/>
 
-- [Chicago Hardship Data Anlaysis with Python-MYSQL Connection](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_ibm/chicago_data.ipynb)
-  - Chicago Hardship and Poverty Index analysis, implementing SQL jupyter notebook Magic commands.
-- [SQL and Python](https://github.com/Shuaf98/SQL_Projects/blob/main/Python_mysql/databse_setup.ipynb)
-  - Material I have made for myself to learn how to integrate my own MySQL and Python knowledge. Features:
-    - Custom function to automatically import all sheets in a spreadsheet to a MySQL database.
     - Database connection and setup from Python scripts.
     
 ## Misc
