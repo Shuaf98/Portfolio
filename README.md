@@ -2,7 +2,8 @@
 Hi, I am Shua! I am a hard-working, fast learning, and highly motivated Data Analyst, with a strong academic background in Business Administration and Marketing. Currently pursuing education and experience in Data Science with the Yandex School of Data Science. Equipped with skills in Python, machine learning and data science packages, SQL, and Excel proficiency.
 
 Contained in this repository are several projects which I have worked on, which I hope can properly showcase my knowledge and capabilities. Within this repository, you can find:
-- **SQL Projects and Tableau Visualization**, featuring some of the most enjoyable work I have created for my own learning: 
+
+- **Data Analysis and Visualizations**, featuring some of the most enjoyable work I have created for my own learning: 
   - Covid -19 statistics analysis using SQL scripitng, and visualization with Tableau
   - SQL Database Management with Python
   - SQL Analysis on the Chicago Hardship dataset.
