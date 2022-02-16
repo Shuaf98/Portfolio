@@ -7,6 +7,10 @@ Contained in this repository are several projects which I have worked on, which 
 - **End to End Machine Learning** projects and kaggle competitions, containing EDA and visualizations, feature engineering and extraction techniques, as well as prediction models using various different machine learning algorithms and packages.
 - **Custom Algorithms**, with custom implemented machine learning algrorithms from sratch, utilizing OOP and class functionality. The goal of these projects were to display and  showcase my knowledge of the various supervised and unsupervised algorithms themselves, and not just ability to implement Sklearn packages.
 ## SQL Projects and Tableau
+- [Foot-Traffic Data Analysis and presentation](https://github.com/Shuaf98/python_learning/blob/main/Placer.ai/EDA_.ipynb)
+  - Full Data analysis on Foot-Traffic data, gathered from users' mobile devices.
+  - Advanced EDA, coverage and activity distribution analysis, and visitation statistics.
+  - Full presentation can be [found here](https://docs.google.com/presentation/d/1MZ08EXcs1tC0ibYm7ULwOCj2rUdYWoLk_UogVAUmOw4/edit?usp=sharing)
 - [Covid Deaths and Infection Rate Analysis and Dashboard](https://github.com/Shuaf98/SQL_Projects/tree/main/SQL_projects)
   - EDA on Covid-19 deaths and infections from the beginning of the pandemic until January 10 2022.
     - Used Skills: Joins, CTE's, Temp Tables,, Aggregate Functions, Creating Views, Data Type Casting
